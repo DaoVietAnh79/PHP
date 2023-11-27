@@ -21,7 +21,7 @@
                     }
                 }
             } catch (\Throwable $th) {
-                echo "Không tìm thấy sinh viên";
+                echo "Không tìm thấy xe";
                 die();
             }
         }
